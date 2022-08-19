@@ -1,2 +1,3 @@
-# proyecto1-sharks-
-Proyecto semana 2
+### proyecto1-sharks### 
+
+empezamos abriendo el csv con un utf - diferente
